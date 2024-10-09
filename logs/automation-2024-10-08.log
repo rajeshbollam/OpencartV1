@@ -1,0 +1,46 @@
+12:28:59.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.350 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:28:59.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:28:59.351 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:28:59.362 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:28:59.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.377 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:28:59.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:28:59.379 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:28:59.389 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:28:59.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:28:59.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:28:59.400 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:28:59.431 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT Test ****
+12:29:01.751 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT Test ****
+12:29:01.774 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT Test ****
+12:29:12.988 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT Test ****
+12:29:12.990 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT Test ****
+12:29:24.654 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT Test ****
+12:29:24.657 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT Test ****
+12:29:36.277 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT Test ****
+12:29:36.280 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT Test ****
+12:29:38.867 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT Test ****
+12:36:43.573 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+12:36:43.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+12:36:44.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+12:36:44.407 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+12:36:45.425 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+12:36:55.458 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+12:36:55.458 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+20:05:35.462 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+20:05:35.577 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+20:05:36.238 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+20:05:36.240 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:05:37.306 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+20:05:47.384 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+20:05:47.384 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+20:11:51.213 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+20:11:51.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+20:11:51.987 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+20:11:51.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+20:11:53.105 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+20:12:03.124 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..

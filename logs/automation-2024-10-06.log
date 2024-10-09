@@ -1,0 +1,46 @@
+18:24:01.718 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:24:03.130 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:24:13.174 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:24:13.174 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:25:02.208 [TestNG-test-chrometest-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:25:02.314 [TestNG-test-chrometest-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:25:03.323 [TestNG-test-chrometest-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:25:03.327 [TestNG-test-chrometest-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:25:04.583 [TestNG-test-chrometest-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:25:14.666 [TestNG-test-chrometest-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:25:14.666 [TestNG-test-chrometest-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:25:19.755 [TestNG-test-edgetest-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:25:19.857 [TestNG-test-edgetest-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:25:20.984 [TestNG-test-edgetest-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:25:20.984 [TestNG-test-edgetest-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:25:22.475 [TestNG-test-edgetest-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:25:32.626 [TestNG-test-edgetest-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:25:32.626 [TestNG-test-edgetest-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:26:48.022 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:26:48.160 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:26:48.592 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:26:48.694 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:26:48.860 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:26:48.863 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:26:50.070 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:26:50.071 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:26:50.393 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:26:50.441 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finisher TC001_AccountRegistrationTest****
+18:26:51.563 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:27:01.631 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:27:01.631 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:27:30.862 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:27:30.959 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:27:31.622 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:27:31.625 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:27:33.202 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:27:33.246 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finisher TC001_AccountRegistrationTest****
+18:27:37.720 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:27:37.813 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
+18:27:38.704 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link..
+18:27:38.705 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+18:27:39.766 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected message...
+18:27:49.798 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:27:49.799 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:29:35.566 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest****
+18:29:35.662 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link..
